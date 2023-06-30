@@ -11,7 +11,12 @@ Final goal to achieve in this project was to predict the close price of differen
 stocks whether it is a profitable stock or not. By analyzing past trends, patterns, and relevant market indicators, the project aims to provide 
 insights into potential price movements and assist investors in making informed decisions.
 
------Methodology-----
+-----Approach-----
+![image](https://github.com/vaibhav7073/Stock-Prediction-of-nifty50/assets/131877087/ab81efcb-f903-4061-b521-6f2e12f47a3b)
+
+
+
+
 
 
 
@@ -43,6 +48,16 @@ technique used and this includes nteractive charts, time series plots, heatmaps,
 Visualizations help stakeholders understand the data intuitively and aid in decision-making.
 
 -----Result-----
+
+![image](https://github.com/vaibhav7073/Stock-Prediction-of-nifty50/assets/131877087/6f7f484d-3b4b-40ad-9843-6d862078f2c9)
+
+![image](https://github.com/vaibhav7073/Stock-Prediction-of-nifty50/assets/131877087/2a65862d-a829-4eb6-8a9f-a8cdd39e8244)
+
+
+![image](https://github.com/vaibhav7073/Stock-Prediction-of-nifty50/assets/131877087/8042ad55-51a0-4ea4-810a-bad489afdff1)
+
+
+
 
 
 
